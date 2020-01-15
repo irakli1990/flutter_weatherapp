@@ -1,0 +1,1 @@
+const String MAIN_SCREEN = 'MAIN',    WEATHER_SCREEN = 'SHOW_WEATHER';
